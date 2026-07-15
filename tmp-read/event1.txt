@@ -1,0 +1,29 @@
+Báo cáo tóm t?t: FCAJ Community Day 23/5/2026
+Thông tinChi ti?tNgày23/5/2026Ð?a di?mT?ng 26, Tòa nhà Bitexco Financial Tower, Phu?ng Sài Gòn, TP.H? Chí MinhVai tròNgu?i tham d?
+M?c tiêu s? ki?n
+? C?p nh?t ki?n th?c và xu hu?ng m?i v? AI và AWS.
+? Gi?i thi?u các công ngh? và d?ch v? AWS nhu Amazon Q và Amazon CloudFront cùng các ?ng d?ng th?c ti?n.
+? Chia s? kinh nghi?m phát tri?n s?n ph?m, tham gia hackathon và tri?n khai d? án th?c t?.
+? Nâng cao hi?u bi?t v? cách ho?t d?ng c?a các mô hình LLM và h? th?ng Multi-Agent AI trong môi tru?ng doanh nghi?p.
+
+Di?n gi?
+Tinh Truong : Platform Engineer, GoTymeX 
+Anh Pham : Cloud Consultant, G-AsiaPacific Vietnam 
+Thinh Nguyen : DevOps Engineer, FCAJ 
+Team UTMorpho : 
+? Uyen Le : GenAI Engineer, VIB 
+? Thao Nguyen : GenAI Engineer, VIB 
+? Mai Nguyen : GenAI Engineer, VIB
+Duc Dao : Solutions Architect, Cloud Kinetics
+Vy Lam : Senior Business Systems Analyst, VPBank  
+
+N?i dung chính c?a s? ki?n
+Chia s? ki?n th?c chuyên sâu v? AI và AWS, kinh nghi?m nghiên c?u và tri?n khai công ngh? trong doanh nghi?p, tu duy phát tri?n s?n ph?m t? ý tu?ng d?n th?c t?, cùng các bài h?c th?c chi?n t? d? án và hackathon. S? ki?n cung mang d?n nhi?u góc nhìn v? d?nh hu?ng ngh? nghi?p và k? nang c?n thi?t trong ngành công ngh? thông tin. 
+
+Bài h?c chính và s? tr?i nghi?m và ki?n th?c h?c du?c
+S? ki?n mang d?n nhi?u ki?n th?c giá tr? v? cách s? d?ng các mô hình AI nhu LLM, d?ng th?i giúp làm rõ vai trò c?a Context, AI Memory và MCP trong vi?c nâng cao hi?u qu? ho?t d?ng c?a các h? th?ng AI. Các n?i dung chuyên sâu dã cung c?p cái nhìn rõ hon v? co ch? suy lu?n c?a mô hình ngôn ng? l?n, tính không ?n d?nh trong quá trình sinh k?t qu? và cách xây d?ng các h? th?ng Multi-Agent ph?c v? nh?ng bài toán ph?c t?p. Bên c?nh dó, nh?ng chia s? t? cu?c thi Hackathon d? l?i nhi?u ?n tu?ng khi m?t s?n ph?m hoàn ch?nh có th? du?c xây d?ng ch? trong kho?ng 18 ti?ng , qua dó cho th?y t?m quan tr?ng c?a tu duy s?n ph?m, kh? nang ph?i h?p nhóm, qu?n lý th?i gian và t?n d?ng hi?u qu? các công c? công ngh? d? d?y nhanh quá trình phát tri?n ?ng d?ng song song dó là nh?ng kinh nghi?m th?c chi?n khi bu?c ra ho?t d?ng ? các doanh nghi?p l?n.
+
+
+
+
+
