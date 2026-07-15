@@ -1,4 +1,4 @@
-baseURL = "https://workshop-sample.awsfcaj.com/"
+baseURL = "https://xam-01.github.io/fcj-workshop-caophat/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
