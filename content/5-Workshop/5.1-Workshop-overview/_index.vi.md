@@ -6,9 +6,6 @@ chapter : false
 pre : " <b> 5.1. </b> "
 ---
 
-{{% notice info %}}
-Hiện tại dự án demo sẽ không sử dụng DynamoDB và Bedrock AI
-{{% /notice %}}
 
 #### Giới thiệu về AWS Serverless & AI
 

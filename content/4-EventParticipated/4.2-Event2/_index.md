@@ -44,7 +44,11 @@ pre: " <b> 4.2. </b> "
 
 ### Event Experience
 
-The **"FCAJ Community Day 27/6/2026"** event held at the AWS office (26th Floor, Bitexco Financial Tower) brought a very lively and professional technological exchange environment. I had the opportunity to learn real-world lessons from leading speakers, especially the live Voice AI and AWS DevOps Agent demos which made theoretical knowledge highly visual and easy to digest. It was a truly valuable community meet-up that inspired my learning goals.
+The event brought together numerous experts in the fields of Cloud Computing and Artificial Intelligence (AI), who shared practical insights into the research, design, deployment, and operation of AI systems on the AWS platform.
+
+One of the highlights of the event was the live demonstrations of AI Voice Agent, AWS DevOps Agent, Amazon Q, and Model Context Protocol (MCP). Through real-world use cases, I gained a deeper understanding of how these technologies can be integrated to solve business challenges. I also learned more about system architecture, cloud security, cost optimization, and operational best practices in cloud environments.
+
+In addition to expanding my technical knowledge, I had the opportunity to interact with the speakers and members of the AWS community. These discussions provided valuable insights into the latest trends in AI and Cloud Computing, as well as the skills required to meet the evolving demands of the industry. Overall, the event broadened my knowledge, strengthened my motivation to continue learning, and helped me establish a clearer career direction in the fields of Cloud Computing and Artificial Intelligence.
 
 ### Pictures from the event
 

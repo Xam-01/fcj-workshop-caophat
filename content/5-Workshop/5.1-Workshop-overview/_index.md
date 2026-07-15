@@ -6,9 +6,6 @@ chapter : false
 pre : " <b> 5.1. </b> "
 ---
 
-{{% notice info %}}
-Currently, the demo project will not use DynamoDB or Bedrock AI.
-{{% /notice %}}
 
 #### AWS Serverless & AI Introduction
 + **AWS Serverless** is a cloud computing execution model that allows you to build and run applications without provisioning or managing physical servers. The system scales automatically and charges only for actual resource consumption.

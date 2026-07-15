@@ -44,7 +44,11 @@ pre: " <b> 4.2. </b> "
 
 ### Trải Nghiệm Trong Sự Kiện
 
-Sự kiện **"FCAJ Community Day 27/6/2026"** diễn ra tại văn phòng AWS (tầng 26 Bitexco Financial Tower) mang lại không khí trao đổi công nghệ vô cùng sôi động và chuyên nghiệp. Tôi có cơ hội lắng nghe những bài học thực chiến từ các diễn giả đầu ngành, đặc biệt là các phần demo trực tiếp Voice AI và AWS DevOps Agent giúp các kiến thức lý thuyết trở nên vô cùng trực quan và dễ tiếp thu. Đây thực sự là buổi sinh hoạt cộng đồng bổ ích, truyền lửa cho định hướng học tập của tôi.
+Sự kiện quy tụ nhiều chuyên gia trong lĩnh vực Cloud Computing và Trí tuệ nhân tạo, mang đến những chia sẻ thực tế về quá trình nghiên cứu, thiết kế, triển khai và vận hành các hệ thống AI trên nền tảng AWS.
+
+Điểm nổi bật của chương trình là các phiên demo trực tiếp về AI Voice Agent, AWS DevOps Agent, Amazon Q và MCP. Thông qua những tình huống ứng dụng thực tế, tôi hiểu rõ hơn cách các công nghệ này được tích hợp để giải quyết các bài toán trong doanh nghiệp, đồng thời có thêm góc nhìn về kiến trúc hệ thống, bảo mật, tối ưu chi phí và vận hành trên môi trường cloud.
+
+Bên cạnh việc tiếp thu kiến thức chuyên môn, tôi còn có cơ hội trao đổi với các diễn giả và cộng đồng yêu thích AWS, từ đó hiểu rõ hơn về xu hướng phát triển của AI và Cloud Computing cũng như những kỹ năng cần thiết để đáp ứng nhu cầu của doanh nghiệp. Sự kiện không chỉ giúp tôi mở rộng kiến thức mà còn tạo thêm động lực để tiếp tục học tập, rèn luyện kỹ năng và định hướng phát triển nghề nghiệp trong lĩnh vực Cloud và AI.
 
 ### Một số hình ảnh khi tham gia sự kiện
 
